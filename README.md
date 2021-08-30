@@ -1,3 +1,11 @@
+# Angular-Nested-and-Child-Route
+Nested and Child Route with Angular
+
+We have 2 child component. First one is HomeBase , the second one is News.
+You can go to the News component with adding the "/news" the end of the Home page component.
+
+Lik this : "localhost:4200/home/news
+
 # NestedChildRoute
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
@@ -25,3 +33,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
